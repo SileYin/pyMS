@@ -9,8 +9,13 @@ BMS player on python
 
 # TODO
 ~~Parse Standard BMS Files~~
+
 ~~BPM Changes~~
+
 Long Notes
+
 Autoplay
+
 Playable 7key mode
+
 ...
